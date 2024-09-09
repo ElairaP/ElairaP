@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - Typescript
 
 ### Examples
-
+-[Data Analysis Project in Excel](https://github.com/ElairaP/Retail-sales-excel-project/tree/main)  
+In this project I used a dataset I found on kaggle to analyse and create visualisations in excel.
