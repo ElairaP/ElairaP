@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Elaira 👋
 
 <!--
 **ElairaP/ElairaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Skills
+- SQL (PostgreSQL)
+- Excel
+- Java
+- HTML and CSS
+- Typescript
+
+### Examples
+
