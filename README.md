@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 -[Data Analysis Project in Excel](https://github.com/ElairaP/Retail-sales-excel-project/tree/main)  
 In this project I used a dataset I found on kaggle to analyse and create visualisations in excel.
 
--University Assignment using Java and SQL  
+-[University Assignment using Java and SQL](https://github.com/ElairaP/Library-system-assignment/tree/main)  
 In this assigment I used Java and PostgreSQL to implement a library system. The program allows a user to input an author name and library location and the program will then display all the books available in that library location by that author.
