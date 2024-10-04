@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Skills
 - SQL (PostgreSQL)
 - Excel
-- python (pandas, matplotlib)
+- Python (pandas, matplotlib)
 - Java
 - HTML and CSS
 - Typescript
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -[Data Analysis Project in Excel](https://github.com/ElairaP/Retail-sales-excel-project/tree/main)  
 In this project I used a dataset I found on kaggle to analyse and create visualisations in excel.
 
-- Data Analysis Project in Python  
+-[Data Analysis Project in Python](https://github.com/ElairaP/student-performance-data-project)  
 In this project I used a dataset I found on kaggle and used python to analyse the data and create visualisations to determine if there were any correlations between student academic performance and certain factors such as parental support, tutoring etc.
 
 -[University Assignment using Java and SQL](https://github.com/ElairaP/Library-system-assignment/tree/main)  
