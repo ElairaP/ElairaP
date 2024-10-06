@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Skills
 - SQL (PostgreSQL)
-- Excel
 - Python (pandas, matplotlib)
+- Excel
 - Java
 - HTML and CSS
 - Typescript
