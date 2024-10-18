@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Skills
-- SQL (PostgreSQL)
 - Python (pandas, matplotlib)
-- Excel
 - Java
+- Microsoft Excel
+- SQL (PostgreSQL)
 - HTML and CSS
 - Typescript
 
