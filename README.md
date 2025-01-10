@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Skills
-- Python (pandas, matplotlib)
+- Python
 - Java
 - Microsoft Excel
 - SQL (PostgreSQL)
