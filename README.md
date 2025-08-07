@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Skills
 - Python
+- Machine Learning using Python
 - Java
 - Microsoft Excel
 - SQL (PostgreSQL)
