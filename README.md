@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 - Typescript
 
 ### Examples
+-[Final Year Project](https://github.com/ElairaP/FYP)    
+Final Year Project I completed as part of my degree. This project involves an analytic comparison of machine learning models in a breast cancer classification task. The project also involves using Explainable Artificial Intelligence (XAI) methods to investigate relationships between model features and prediction. This results obtained from the XAI methods are used to explain why the model makes certain predictions.
+
 -[Data Analysis Project in Excel](https://github.com/ElairaP/Retail-sales-excel-project/tree/main)  
 In this project I used a dataset I found on kaggle to analyse and create visualisations in excel.
 
