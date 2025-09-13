@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - Python
 - Machine Learning using Python
 - Java
-- Microsoft Excel
 - SQL (PostgreSQL)
+- Tableau
+- Microsoft Excel
 - HTML and CSS
 - Typescript
 
@@ -28,6 +29,9 @@ Here are some ideas to get you started:
 -[Final Year Project - Machine Learning and XAI](https://github.com/ElairaP/FYP)    
 Final Year Project I completed as part of my degree. This project involves an analytic comparison of machine learning models in a breast cancer classification task. The project also involves using Explainable Artificial Intelligence (XAI) methods to investigate relationships between model features and prediction. The results obtained from the XAI methods are used to explain why the machine learning model makes certain predictions.   
 Project completed using python.
+
+- Tableau profile
+https://public.tableau.com/app/profile/elaira.polintan/vizzes
 
 -[Data Analysis Project in Excel](https://github.com/ElairaP/Retail-sales-excel-project)  
 In this project I used a dataset I found on kaggle to analyse and create visualisations in excel.
